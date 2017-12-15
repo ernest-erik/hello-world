@@ -1,6 +1,6 @@
 # Reflectie op thuisstudie
-Ik heb HTML, CSS en JavaScript gestudeerd met behulp van verschillende on-line courses.
-Helaas, heb ik nog te weinig ervaring om zelf een web-pagina volledig op te maken.
+Ik heb HTML, CSS, JavaScript en Github gestudeerd met behulp van verschillende on-line courses.
+Helaas, heb ik nog te weinig ervaring om zelfstandig een web-pagina volledig op te maken.
 Ik heb de volgende libraries gestudeerd:
  * [Twitter Bootstrap](https://getbootstrap.com) - een basis CSS framework met de basis styles voor pagina layout, form controls etc.
  * [jQuery](http://jquery.com) - een basis JavaScript framework voor het makkelijk manipuleren van DOM objecten.
@@ -22,4 +22,4 @@ Het plan:
 Optioneel, mocht ik de tijd hebben:
   * Sorteren van addressen op het pagina met de lijst van addressen.
   * Addressen opslaan in browser's [Local Storage](https://www.w3schools.com/html/html5_webstorage.asp)
-  * Mooie animaties.
+  * Mooie animaties maken.
